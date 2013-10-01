@@ -1,22 +1,29 @@
 Use: 
 
-  Kolisch. et al designed a tool called PROGEN as project scheduling problem builder, and used this tool to generate a standard problem library PSPLIB, which is a great convenience for resource-constrained project scheduling problem. But it just considered three types of resources: renewable, non-renewable and dual nature resources. Research about spatial resource-constrained project scheduling problem also requires a lot of problem instances, but there is no corresponding problem generation tool. So this tool is used to generate spatial resource-constrained project scheduling problem instances.
+        Kolisch. et al designed a tool called PROGEN as project scheduling problem builder, and used this tool 
+  to generate a standard problem library PSPLIB, which is a great convenience for resource-constrained project 
+  scheduling problem. But it just considered three types of resources: renewable, non-renewable and dual nature 
+  resources. Research about spatial resource-constrained project scheduling problem also requires a lot of 
+  problem instances, but there is no corresponding problem generation tool. So this tool is used to generate 
+  spatial resource-constrained project scheduling problem instances.
 
 How to use:
 
-  1.	Click the ¡°Scan¡± button to choose base file.
+  1.	Click the "Scan"button to choose base file.
 
-  2.	Click the ¡°Check base file¡± button to view the base file¡¯s content.
+  2.	Click the "Check base file" button to view the base file's content.
 
-  3.	Click the ¡°Parameter settings¡± button to set related parameters for          generating the example file.
+  3.	Click the "Parameter settings" button to set related parameters for generating the example file.
 
-  4.	Cases¡¯ number is the amount of example files to generate.
+  4.	Cases' number is the amount of example files to generate.
 
-  5.	Click the ¡°Generate cases¡± button to generate example files.
+  5.	Click the "Generate cases" button to generate example files.
   
-  6.	Click the ¡°Check cases¡± button to view the example file¡¯s content.
+  6.	Click the "Check cases" button to view the example file's content.
   
-  7.	Click the ¡°Check logs¡± button to view logs.  
+  7.	Click the "Check logs" button to view logs.  
   
-  8.	Click the ¡°Check network diagram¡± tab and click the ¡°Scan¡± button to 	choose an example file, and then click the ¡°Check network diagram¡± 		button to view the network structure by a graphical method.
+  8.	Click the "Check network diagram" tab and click the "Scan" button to 	choose an example file, 
+      and then click the "Check network diagram" button to view the network structure by a graphical
+      method.
 
