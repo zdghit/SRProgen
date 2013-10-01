@@ -1,0 +1,119 @@
+------------------------------------------------------------------------
+sample file -->1-1.txt
+------------------------------------------------------------------------
+ERROR   2: Successor could not be determined.
+ERROR   2: Successor could not be determined.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+------------------------------------------------------------------------
+sample file -->1-2.txt
+------------------------------------------------------------------------
+ERROR   2: Successor could not be determined.
+ERROR   2: Successor could not be determined.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+------------------------------------------------------------------------
+sample file -->1-3.txt
+------------------------------------------------------------------------
+ERROR   3: Complexity could not be achieved (实际生成低于设定值).
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR 51: 对空间资源类型SRC的最大需求种数 > 该空间资源类型的种数 ; -> 调整为:最大需求种数 =该空间资源类型种数
+------------------------------------------------------------------------
+sample file -->1-4.txt
+------------------------------------------------------------------------
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR 51: 对空间资源类型SRC的最大需求种数 > 该空间资源类型的种数 ; -> 调整为:最大需求种数 =该空间资源类型种数
+------------------------------------------------------------------------
+sample file -->1-5.txt
+------------------------------------------------------------------------
+ERROR   2: Successor could not be determined.
+ERROR   2: Successor could not be determined.
+ERROR   2: Successor could not be determined.
+ERROR   2: Successor could not be determined.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR 51: 对空间资源类型SRC的最大需求种数 > 该空间资源类型的种数 ; -> 调整为:最大需求种数 =该空间资源类型种数
+------------------------------------------------------------------------
+sample file -->1-6.txt
+------------------------------------------------------------------------
+ERROR   2: Successor could not be determined.
+ERROR   2: Successor could not be determined.
+ERROR   2: Successor could not be determined.
+ERROR   2: Successor could not be determined.
+ERROR   3: Complexity could not be achieved (实际生成低于设定值).
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+------------------------------------------------------------------------
+sample file -->1-7.txt
+------------------------------------------------------------------------
+ERROR   2: Successor could not be determined.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+------------------------------------------------------------------------
+sample file -->1-8.txt
+------------------------------------------------------------------------
+ERROR   2: Successor could not be determined.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+------------------------------------------------------------------------
+sample file -->1-9.txt
+------------------------------------------------------------------------
+ERROR   2: Successor could not be determined.
+ERROR   2: Successor could not be determined.
+ERROR   2: Successor could not be determined.
+ERROR   2: Successor could not be determined.
+ERROR   2: Successor could not be determined.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR 51: 对空间资源类型SRC的最大需求种数 > 该空间资源类型的种数 ; -> 调整为:最大需求种数 =该空间资源类型种数
+------------------------------------------------------------------------
+sample file -->1-10.txt
+------------------------------------------------------------------------
+ERROR   2: Successor could not be determined.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR  29: More than 1 trial was used to produce a job with non dominated modes.
+ERROR 51: 对空间资源类型SRC的最大需求种数 > 该空间资源类型的种数 ; -> 调整为:最大需求种数 =该空间资源类型种数

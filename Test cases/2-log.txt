@@ -1,0 +1,54 @@
+------------------------------------------------------------------------
+sample file -->2-1.txt
+------------------------------------------------------------------------
+ERROR  20: RF for R can`t be achieved; max # req. resources too small.
+ERROR  23: Obtained RF falls short the tolerated range for R.
+ERROR  22: RF for N can`t be achieved; max # req. resources too small.
+ERROR  25: Obtained RF falls short the tolerated range for N.
+------------------------------------------------------------------------
+sample file -->2-2.txt
+------------------------------------------------------------------------
+ERROR  22: RF for N can`t be achieved; max # req. resources too small.
+ERROR  25: Obtained RF falls short the tolerated range for N.
+------------------------------------------------------------------------
+sample file -->2-3.txt
+------------------------------------------------------------------------
+ERROR  20: RF for R can`t be achieved; max # req. resources too small.
+ERROR  23: Obtained RF falls short the tolerated range for R.
+ERROR  22: RF for N can`t be achieved; max # req. resources too small.
+ERROR  25: Obtained RF falls short the tolerated range for N.
+------------------------------------------------------------------------
+sample file -->2-4.txt
+------------------------------------------------------------------------
+ERROR  20: RF for R can`t be achieved; max # req. resources too small.
+ERROR  23: Obtained RF falls short the tolerated range for R.
+ERROR  22: RF for N can`t be achieved; max # req. resources too small.
+ERROR  25: Obtained RF falls short the tolerated range for N.
+------------------------------------------------------------------------
+sample file -->2-5.txt
+------------------------------------------------------------------------
+ERROR  22: RF for N can`t be achieved; max # req. resources too small.
+ERROR  25: Obtained RF falls short the tolerated range for N.
+------------------------------------------------------------------------
+sample file -->2-6.txt
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+sample file -->2-7.txt
+------------------------------------------------------------------------
+ERROR  20: RF for R can`t be achieved; max # req. resources too small.
+ERROR  23: Obtained RF falls short the tolerated range for R.
+ERROR  22: RF for N can`t be achieved; max # req. resources too small.
+ERROR  25: Obtained RF falls short the tolerated range for N.
+------------------------------------------------------------------------
+sample file -->2-8.txt
+------------------------------------------------------------------------
+ERROR  20: RF for R can`t be achieved; max # req. resources too small.
+ERROR  23: Obtained RF falls short the tolerated range for R.
+------------------------------------------------------------------------
+sample file -->2-9.txt
+------------------------------------------------------------------------
+ERROR  22: RF for N can`t be achieved; max # req. resources too small.
+ERROR  25: Obtained RF falls short the tolerated range for N.
+------------------------------------------------------------------------
+sample file -->2-10.txt
+------------------------------------------------------------------------

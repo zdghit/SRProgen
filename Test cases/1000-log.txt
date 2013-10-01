@@ -1,0 +1,10 @@
+------------------------------------------------------------------------
+sample file -->1000-1.txt
+------------------------------------------------------------------------
+ERROR  22: RF for N can`t be achieved; max # req. resources too small.
+ERROR  25: Obtained RF falls short the tolerated range for N.
+------------------------------------------------------------------------
+sample file -->1000-2.txt
+------------------------------------------------------------------------
+ERROR  22: RF for N can`t be achieved; max # req. resources too small.
+ERROR  25: Obtained RF falls short the tolerated range for N.

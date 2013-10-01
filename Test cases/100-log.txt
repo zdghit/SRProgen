@@ -1,0 +1,13 @@
+------------------------------------------------------------------------
+sample file -->100-1.txt
+------------------------------------------------------------------------
+ERROR  20: RF for R can`t be achieved; max # req. resources too small.
+ERROR  23: Obtained RF falls short the tolerated range for R.
+ERROR  22: RF for N can`t be achieved; max # req. resources too small.
+ERROR  25: Obtained RF falls short the tolerated range for N.
+------------------------------------------------------------------------
+sample file -->100-2.txt
+------------------------------------------------------------------------
+ERROR   2: Successor could not be determined.
+ERROR  22: RF for N can`t be achieved; max # req. resources too small.
+ERROR  25: Obtained RF falls short the tolerated range for N.
