@@ -3,6 +3,7 @@ package gui;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 
+
 public class TextF {
 	String filePath;
 	String textContext;
