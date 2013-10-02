@@ -12,7 +12,10 @@ You can get more information about this tool by refering to the paper of NICST20
 Author:
 
 Daoguang ZHANG, daogzhang@gamil.com,  Harbin Institute of Technology(HIT)
+
 Lanshun NIE,  nls@hit.edu.cn,  HIT
+
 Jintao JIN,  jintaojin@gmail.com,  HIT\n
+
 Dechen Zhan,  dechen@hit.edu.cn,  HIT\n
 Xiaofei Xu,  xiaofei@hit.edu.cn,  HIT\n
