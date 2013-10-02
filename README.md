@@ -10,8 +10,8 @@ Kolisch. et al designed a tool called PROGEN as project scheduling problem build
 You can get more information about this tool by refering to the paper of NICST2013 conference named "Model and Problem Generation Tool of Project Scheduling Problem with Spatial Resources".
 
 Author:
-Daoguang ZHANG, daogzhang@gamil.com,  Harbin Institute of Technology(HIT)
-Lanshun NIE,  nls@hit.edu.cn,  HIT
-Jintao JIN,  jintaojin@gmail.com,  HIT
-Dechen Zhan,  dechen@hit.edu.cn,  HIT
-Xiaofei Xu,  xiaofei@hit.edu.cn,  HIT
+Daoguang ZHANG, daogzhang@gamil.com,  Harbin Institute of Technology(HIT)\n
+Lanshun NIE,  nls@hit.edu.cn,  HIT\n
+Jintao JIN,  jintaojin@gmail.com,  HIT\n
+Dechen Zhan,  dechen@hit.edu.cn,  HIT\n
+Xiaofei Xu,  xiaofei@hit.edu.cn,  HIT\n
